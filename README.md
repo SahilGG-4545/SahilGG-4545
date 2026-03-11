@@ -6,29 +6,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 VISTA — Vision Integrated Smart Traffic Automation
-AI-powered traffic management system using computer vision to detect and manage vehicle flow.
-
-### 🔹 NeuralDocs — Multimodal RAG Intelligence
-An AI assistant capable of understanding documents and images using a multimodal retrieval augmented generation pipeline.
-
-### 🔹 Research Assistant Agent
-An AI research agent that searches academic papers, extracts insights, and generates summaries.
-
-### 🔹 2ndBrain
-AI-powered knowledge management system with semantic search.
-
----
-
-## 📚 Currently Learning
-
-• Agentic AI Systems  
-• Multi-Agent Architectures  
-• Advanced RAG Pipelines  
-• LLM Evaluation Techniques
-
 ## 🌐 Connect With Me
 
 <p align="left">
